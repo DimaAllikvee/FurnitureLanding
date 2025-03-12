@@ -107,9 +107,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // footer
             footerAbout: "About us",
-            footerItinerary: "Itinerary",
-            footerTestimonials: "Testimonials",
-            footerContacts: "Contacts",
+            footerItinerary: "Product",
+            footerTestimonials: "Design",
+            footerContacts: "Guaranatee",
 
             // Модальное окно
             modalTitle: "Complete Your Purchase",
